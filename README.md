@@ -1,5 +1,5 @@
 # Awesome AR/VR
-This repo contains the Systems and Networking related AR/VR research and tools.
+This repo contains the Systems and Networking related AR/VR research papers and tools.
 
 ## Tracking and Localization
 * [Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization] (http://rpg.ifi.uzh.ch/docs/ICRA19_Bryner.pdf) [ICRA'19]
