@@ -17,4 +17,8 @@ This repo contains the Systems and Networking related AR/VR research papers and 
 * [Firefly: Untethered Multi-user VR for Commodity Mobile Devices](https://www.usenix.org/system/files/atc20-liu-xing.pdf) [ATC'20]
 * [Enabling High-Quality Untethered Virtual Reality](https://cs.uwaterloo.ca/~oabari/Papers/NSDI17.pdf) [NSDI'17]
 
-## Energy Efficient AR/VR
+## Tools/SDKs for AR/VR
+* [ARCore](https://developers.google.com/ar): Google's AR developement SDK
+* [ARKit](https://developer.apple.com/augmented-reality/): Apple's AR development SDK
+* [ORBSLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3): SLAM Library
+* [Intel Realsense](https://github.com/IntelRealSense/librealsense): Intel's tracking and localization library for its cameras.
