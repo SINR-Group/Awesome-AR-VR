@@ -7,6 +7,7 @@ This repo contains the Systems and Networking related AR/VR research papers and 
 * [Position Tracking for Virtual Reality Using Commodity WiFi](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kotaru_Position_Tracking_for_CVPR_2017_paper.pdf) [CVPR'17]
 * [Strata: Fine-Grained Acoustic-based Device-Free Tracking](https://www.cs.utexas.edu/~wmao/resources/papers/strata_mobisys17.pdf) [MobiSys'17]
 * [CAT: High-Precision Acoustic Motion Tracking](https://www.cs.utexas.edu/~jianhe/cat_mobicom.pdf) [MobiCom'16]
+* [LOAM: Lidar Odometry and Mapping in Real-time](https://ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf) [RSS'14]
 
 ## Rendering AR/VR Applications on Mobile Devices
 * [Edge Assisted Real-time Object Detection for Mobile Augmented Reality](http://www.winlab.rutgers.edu/~luyang/papers/mobicom19_augmented_reality.pdf) [MobiCom'19]
