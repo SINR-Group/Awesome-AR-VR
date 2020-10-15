@@ -2,7 +2,7 @@
 This repo contains the Systems and Networking related AR/VR research papers and tools.
 
 ## Tracking and Localization
-* [Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization] (http://rpg.ifi.uzh.ch/docs/ICRA19_Bryner.pdf) [ICRA'19]
+* [Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization](http://rpg.ifi.uzh.ch/docs/ICRA19_Bryner.pdf) [ICRA'19]
 * [MilliSonic: Pushing the Limits of Acoustic Motion Tracking](https://homes.cs.washington.edu/~gshyam/Papers/millisonic.pdf) [CHI'19]
 * [Position Tracking for Virtual Reality Using Commodity WiFi](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kotaru_Position_Tracking_for_CVPR_2017_paper.pdf) [CVPR'17]
 * [Strata: Fine-Grained Acoustic-based Device-Free Tracking](https://www.cs.utexas.edu/~wmao/resources/papers/strata_mobisys17.pdf) [MobiSys'17]
