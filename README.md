@@ -23,3 +23,4 @@ This repo contains the Systems and Networking related AR/VR research papers and 
 * [ARKit](https://developer.apple.com/augmented-reality/): Apple's AR development SDK
 * [ORBSLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3): SLAM Library
 * [Intel Realsense](https://github.com/IntelRealSense/librealsense): Intel's tracking and localization library for its cameras.
+* [Kalibr](https://github.com/ethz-asl/kalibr): A tool to calibrate multiple cameras, camera+IMU, multiple IMUs, and IMU intrinsic calibration. 
